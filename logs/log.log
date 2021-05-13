@@ -1,0 +1,11 @@
+2021-05-13 13:41:09  [ vert.x-eventloop-thread-0:1916 ] - [ ERROR ]  读取配置成功
+2021-05-13 13:53:12  [ vert.x-eventloop-thread-0:2123 ] - [ ERROR ]  读取配置成功
+2021-05-13 13:53:15  [ vert.x-eventloop-thread-0:4831 ] - [ ERROR ]  连接失败..io.vertx.mysqlclient.MySQLException: Access denied for user 'root'@'20.1.1.6' (using password: YES)
+2021-05-13 13:53:15  [ vert.x-eventloop-thread-0:4831 ] - [ ERROR ]  出问题了 - > null
+2021-05-13 13:53:56  [ vert.x-eventloop-thread-0:2123 ] - [ ERROR ]  读取配置成功
+2021-05-13 13:53:58  [ vert.x-eventloop-thread-0:4016 ] - [ ERROR ]  连接失败..io.vertx.mysqlclient.MySQLException: Access denied for user 'root'@'20.1.1.6' (using password: YES)
+2021-05-13 13:53:58  [ vert.x-eventloop-thread-0:4017 ] - [ ERROR ]  出问题了 - > io.vertx.mysqlclient.MySQLException: Access denied for user 'root'@'20.1.1.6' (using password: YES)
+2021-05-13 13:56:21  [ vert.x-eventloop-thread-0:2042 ] - [ ERROR ]  读取配置成功
+2021-05-13 13:56:28  [ vert.x-eventloop-thread-0:9161 ] - [ ERROR ]  连接失败..io.vertx.mysqlclient.MySQLException: Access denied for user 'root'@'20.1.1.6' (using password: YES)
+2021-05-13 13:56:28  [ vert.x-eventloop-thread-0:9165 ] - [ ERROR ]  出问题了 - > io.vertx.mysqlclient.MySQLException: Access denied for user 'root'@'20.1.1.6' (using password: YES)
+2021-05-13 13:57:42  [ vert.x-eventloop-thread-0:1993 ] - [ ERROR ]  读取配置成功
